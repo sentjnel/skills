@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plain Workflow"
+  short_description: "Track parallel research directions and standalone lemmas"
+  default_prompt: "Use $plain-workflow to organize this research project into parallel proof and counterexample tracks with Progress, Lemma, and unresolved-result tracking."

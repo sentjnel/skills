@@ -1,0 +1,4 @@
+interface:
+  display_name: "报告驱动的证明迭代"
+  short_description: "核验完整检查报告并自动修订、备份及推进数学稿件版本"
+  default_prompt: "使用 $iterate-proofs-from-reports 读取指定目录中的完整检查报告，核验后直接迭代目标数学稿件并保存上一版本。"

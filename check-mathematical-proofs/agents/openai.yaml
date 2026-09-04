@@ -1,0 +1,4 @@
+interface:
+  display_name: "数学证明核查"
+  short_description: "逐步核查数学证明中的逻辑漏洞、条件误用、量词错误与循环论证"
+  default_prompt: "使用 $check-mathematical-proofs 逐步核查这份数学证明，定位错误并给出简短的局部修正建议。"

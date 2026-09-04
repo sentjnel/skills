@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manual Review Interventions"
+  short_description: "Track review opinions, staged merges, checks, and handoffs"
+  default_prompt: "Use $manage-manual-review-interventions to maintain this manuscript review and hand it off safely before a second context compaction."
